@@ -1,0 +1,11 @@
+var video = [];
+video[1] = '<iframe width="460" height="345" src="https://onecloud.media/embed/9b7d0519314df23a-f14bfee80b99558a" frameborder="0" allowfullscreen></iframe>';
+video[2] = '<iframe width="460" height="345" src="https://onecloud.media/embed/2be7fd75fc6678c1-a3b4ad305ba7e2bd" frameborder="0" allowfullscreen></iframe>';
+video[3] = '<iframe width="460" height="345" src="https://onecloud.media/embed/50550e6aa6c40dce-093e20f26de81ca5" frameborder="0" allowfullscreen></iframe>';
+video[4] = '<iframe width="460" height="345" src="https://onecloud.media/embed/68de12249fb6b592-ac09ed9819bd3546" frameborder="0" allowfullscreen></iframe>';
+video[5] = '<iframe width="460" height="345" src="https://onecloud.media/embed/95f00278e0671b4c-97b785bfce6ce6c8" frameborder="0" allowfullscreen></iframe>';
+video[6] = '<iframe width="460" height="345" src="https://onecloud.media/embed/2139013a0159f200-1c96ce766912bd04" frameborder="0" allowfullscreen></iframe>';
+video[7] = '<iframe width="460" height="345" src="https://onecloud.media/embed/75ab570e4da4ad9b-17b656755071dbc2" frameborder="0" allowfullscreen></iframe>';
+video[8] = '<iframe width="460" height="345" src="https://onecloud.media/embed/e15fef1a038ffc70-f5597c3cb188d3b9" frameborder="0" allowfullscreen></iframe>';
+video[9] = '<iframe width="460" height="345" src="https://onecloud.media/embed/d1c15dac60bf5298-861db0472be68d1e" frameborder="0" allowfullscreen></iframe>';
+video[10] = '<iframe width="460" height="345" src="https://onecloud.media/embed/68c0b83c8244842e-58e1f5b5eca45b7a" frameborder="0" allowfullscreen></iframe>';
