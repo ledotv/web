@@ -20,7 +20,7 @@ listctnr.wrap('<div class="ui-widget-content hoverscroll' +
 (params.rtl && !params.vertical ? " rtl" : "") + '"></div>');
 //listctnr.wrap('<div class="hoverscroll"></div>');
 var ctnr = listctnr.parent();
-console.log(listctnr)
+//console.log(listctnr)
 var leftArrow, rightArrow, topArrow, bottomArrow;
 if (params.arrows) {
 if (!params.vertical) {
